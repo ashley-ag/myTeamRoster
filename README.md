@@ -25,4 +25,9 @@ Use 'npm i' command to obtain inquirer and run 'node index.js' to run the progra
 
 ## <a id="Test"></a> How to Test this application
 
-  
+
+## Important Links:
+
+  https://github.com/ashley-ag/myTeamRoster
+  <br>
+  https://ashley-ag.github.io/myTeamRoster/
