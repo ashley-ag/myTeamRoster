@@ -20,7 +20,7 @@ const showMenu = () => {
   message: 'What is the role of this employee?',
   choices: ['Manager', 'Engineer', 'Intern', 'Quit'],
   })
-
+  .then((answer) => {
   // Use switch() for the response
   switch(new Employee) {
   // if 'Manager', call managerPrompt()
@@ -37,8 +37,9 @@ const showMenu = () => {
       break;
   // Otherwise, call render() function to generate HTML
     default:
-      render();
-  }}
+      console.log("double oops");
+  }} )
+}
 
 const managerPrompt = () => {
   // use inquirer to prompt the following:
